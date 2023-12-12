@@ -1,7 +1,6 @@
 <?php include("header.php"); ?>
 <?php 
 /***************************************Print Array*********************************************************** */
-
 ?>
 <div class="card mt-5">
 <div class="card-header">
